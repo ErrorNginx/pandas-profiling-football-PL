@@ -60,7 +60,7 @@ npxG+xA : Non-Penalty Expected Goals plus Expected Assists made per 90 mins.
 
 ## Contact
 - Created by [@flynerdpl](https://www.instagram.com/agus_mahari//) - feel free to contact me!
-- convert csv by [conver utf 8](https://www.virtualbadge.io/resources/utf-8-converter-for-csv-files//)
+- convert csv by [virtualbadge](https://www.virtualbadge.io/resources/utf-8-converter-for-csv-files//)
 
 
 <!-- Optional -->
