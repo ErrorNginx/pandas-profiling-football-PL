@@ -1,4 +1,7 @@
 # Pandas Profiling
+> About pandas Profiling
+- pandas-profiling generates profile reports from a pandas DataFrame. The pandas df.describe() function is handy yet a little basic for exploratory data analysis. pandas-profiling extends pandas DataFrame with df.profile_report(), which automatically generates a standardized univariate and multivariate report for data understanding.
+
 > About Dataset
 Context
 This dataset contains Stats of football player from Premier League (2021-2022)
@@ -45,10 +48,7 @@ npxG+xA : Non-Penalty Expected Goals plus Expected Assists made per 90 mins.
 
 
 ## General Information
-- Provide general information about your project here.
-- What problem does it (intend to) solve?
-- What is the purpose of your project?
-- Why did you undertake it?
+- pandas-profiling generates profile reports from a pandas DataFrame. The pandas df.describe() function is handy yet a little basic for exploratory data    analysis. pandas-profiling extends pandas DataFrame with df.profile_report(), which automatically generates a standardized univariate and multivariate    report for data understanding.
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
